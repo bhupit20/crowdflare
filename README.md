@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# crowdflare
+# crowdfunding
 =======
 # Lomi - Crowdfunding Platform
 
